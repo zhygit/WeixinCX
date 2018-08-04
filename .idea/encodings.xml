@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zhy/Baidu/Beans/OauthParams.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zhy/Baidu/Beans/TsnParams.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zhy/Baidu/Controller/OauthController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zhy/Baidu/Controller/TsnController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zhy/Baidu/Service/TsnServiceItf.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zhy/Baidu/Service/TsnServiceItfImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zhy/Config/MyMvcConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zhy/Tuling" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zhy/Tuling/Service/TulingService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zhy/WX/Controller/WxController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/zhy/WX/beans/Token.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/application.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/jquery-3.2.1.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/lib/bootstrap/css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/lib/bootstrap/fonts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/lib/bootstrap/js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/templates" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
